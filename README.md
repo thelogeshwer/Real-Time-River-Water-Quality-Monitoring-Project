@@ -53,5 +53,5 @@ Displays real-time graphs for:
 - pH
 - Turbidity
   
-Implemented using Node-RED Dashboard
-Auto-updates from cloud data streams
+Implemented using Node-RED Dashboard.
+Auto-updates from cloud data streams.
