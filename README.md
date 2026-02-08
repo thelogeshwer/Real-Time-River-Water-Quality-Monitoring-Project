@@ -49,8 +49,8 @@ Sensors → ESP8266 → IBM Watson IoT → Node-RED → Dashboard → SMS Alerts
 ## 📊 Dashboard
 
 Displays real-time graphs for:
-Temperature
-pH
-Turbidity
-Implemented using Node-RED Dashboard
-Auto-updates from cloud data streams
+- Temperature
+- pH
+- Turbidity
+- Implemented using Node-RED Dashboard
+- Auto-updates from cloud data streams
